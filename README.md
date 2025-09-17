@@ -83,4 +83,4 @@ This project reflects the **core responsibilities of a Business Analyst**:
 ---
 
 ## Tools Used  
--  **SQL MySQL**  
+-  **SQL : MySQL**  
